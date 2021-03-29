@@ -58,7 +58,15 @@ The Black-Scholes equation is obtained as a solution of the Black-Scholes differ
 
 The data is for the period of 1 Jan - 1 March 2018, with options expiring on 28 March 2018. The **National Stock Exchange (NSE)** website was used to obtain the historical data. It was calculated for three different values of striking price (k).
 
+![Data](/img/data.png)
+
 The R code which utilised the Black-Scholes equation for calculating call option prices for the Tata Motors stock prices gave the outputs as depicted in the following figures. 
+
+![k = 400](/img/k_400.png)
+
+![k = 450](/img/k_450.png)
+
+![k = 500](/img/k_500.png)
 
 
 [Project Report](https://github.com/nzare/BlackScholesModelinR/blob/master/Project%20Black-Scholes.pdf)
