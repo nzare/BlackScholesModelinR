@@ -1,5 +1,5 @@
 # Black Scholes Option Pricing Model
-### A project on implementing Black Scholes Model in R as a part of course Applied Stochastic Process
+### A project on implementing Black Scholes Model in R
 
 The Black-Scholes formula is often used in the finance sector to estimate option prices.
 
